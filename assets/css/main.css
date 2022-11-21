@@ -1796,7 +1796,6 @@ input, select, textarea {
 			font-weight: 600;
 			letter-spacing: 0.25em;
 			margin-bottom: 0;
-			text-transform: uppercase;
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -2175,7 +2174,7 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.left {
